@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HelloMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="choose_style">Choose style</string>
+    <string name="defecte">Per defecte</string>
+    <string name="retro">Retro</string>
+    <string name="nit">Nit</string>
+    <string name="pink">Rosa</string>
+    <string name="grisos">Escala de grisos</string>
+
+    <string-array name="estils">
+        <item>Retro</item>
+        <item>Nit</item>
+        <item>Escala de grisos</item>
+        <item>Rosa</item>
+        <item>Per Defecte</item>
+    </string-array>
+</resources>
